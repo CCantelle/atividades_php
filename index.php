@@ -25,6 +25,13 @@
         <div class="links"><a href="ex9/ex9.php">Exercício 9</a></div>
         <div class="links"><a href="ex10/ex10.php">Exercício 10</a></div>
         <div class="links"><a href="ex11/ex11.php">Exercício 11</a></div>
+        <div class="links"><a href="ex12/ex12.php">Exercício 12</a></div>
+        <div class="links"><a href="ex13/ex13.php">Exercício 13</a></div>
+        <div class="links"><a href="ex14/ex14.php">Exercício 14</a></div>
+        <div class="links"><a href="ex15/ex15.php">Exercício 15</a></div>
+        <div class="links"><a href="ex16/ex16.php">Exercício 16</a></div>
+        <div class="links"><a href="ex17/ex17.php">Exercício 17</a></div>
+        <div class="links"><a href="ex18/ex18.php">Exercício 18</a></div>
     </div>
 
 </body>
